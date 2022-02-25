@@ -1,4 +1,4 @@
-# [help](https://adrianjuhl.github.io/help/)
+# Welcome to my [help](https://adrianjuhl.github.io/help/) pages
 
 Pages of help for all sorts of things.
 
